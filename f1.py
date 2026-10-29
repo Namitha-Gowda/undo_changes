@@ -1,6 +1,6 @@
 def function_name():
     print("hello")
-    print("function body")
 
+    print("function body")
 
 function_name()    
